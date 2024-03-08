@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.basicteachertoolbox",                              
+  "displayName": "Basic Teacher",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allows to construct workshop and to use avatar on overlayer screen to teach in the screen of the students.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_02_23_BasicTeacher.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
