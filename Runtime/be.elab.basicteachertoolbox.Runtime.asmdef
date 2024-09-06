@@ -1,13 +1,10 @@
 {
-    "name": "be.eloistree.basicteachertoolboxEditor",
+    "name": "be.elab.basicteachertoolbox",
     "rootNamespace": "",
     "references": [
-        "be.eloistree.basicteachertoolbox",
-        "be.eloistree.scratchtounity"
+        "be.elab.scratchtounity"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
